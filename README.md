@@ -15,7 +15,11 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
       <thead>
         <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Languages & Technologies"></td>
+          <td style="width: 100%" colspan="2">
+            <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Languages & Technologies" />
+          </td>
+        </tr>
+        <tr>
           <td>
             <img
               src="https://github-readme-stats.vercel.app/api?username=DiegoVilla27&show_icons=true&locale=en&theme=tokyonight"
