@@ -2,10 +2,10 @@
 
 
 # About Me
-- 🧑‍💻 I'm Diego! working as Front-End Developer
-- 🚀 Angular, React and Next
-- 🌱 Currently studying VueJS and Flutter
-- 🆕 Interested in learning new technologies
+- 👋 Hi, I'm Diego, a dedicated Front-End Developer.
+- 🚀 Proficient in Angular, Ionic, React and Next.
+- 🌱 Currently expanding my skill set with Vue.js and Flutter.
+- 🆕 Passionate about continuous learning and staying updated with the latest technologies.
 - 🥷 Aspiring Ninja Developer and Unicorn Designer
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-villa-dev) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Diegovilla27) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/diegovilla___)
