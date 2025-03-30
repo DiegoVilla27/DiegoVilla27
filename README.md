@@ -6,7 +6,7 @@
 - 🚀 Proficient in Angular, Ionic, React, React Native and Next.
 - 🌱 Currently expanding my skill set with Vue and Flutter.
 - 🆕 Passionate about continuous learning and staying updated with the latest technologies.
-- 🥷 Aspiring Ninja Developer and Unicorn Designer
+- 🥷 Aspiring Ninja Developer
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-villa-dev) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Diegovilla27) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/diego.villa___)
 
