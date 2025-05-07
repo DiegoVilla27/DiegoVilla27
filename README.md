@@ -3,7 +3,7 @@
 
 # About Me
 - 👨🏻‍💻 Hi, I'm Diego, a dedicated Front-End Developer.
-- 🚀 Proficient in Angular, Ionic, React, React Native and Next.
+- 🚀 Proficient in Angular, Ionic, React, React Native, Next and Flutter.
 - 🌱 Currently expanding my skill set with Vue and Flutter.
 - 🆕 Passionate about continuous learning and staying updated with the latest technologies.
 - 🥷 Aspiring Ninja Developer
